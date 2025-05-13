@@ -46,7 +46,6 @@ public class Principal {
             if (opcion == 1) {
                 System.out.print("Ingrese el monto a convertir: ");
                 double monto = scanner.nextDouble();
-
                 mostrarMenuMonedas();
 
                 System.out.print("Ingrese número de moneda de origen: ");

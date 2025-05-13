@@ -9,8 +9,8 @@ import java.net.http.HttpResponse;
 
 
 public  class ConsultaMoneda {
-    private static final String Api_key = "820fc1af511ef6f6ef6b3b05";
-    private static final String Base_URL = "https://v6.exchangerate-api.com/v6/" + Api_key + "/latest/";
+    private static final String Api_key ="Api_key";
+    private static final String Base_URL ="https://v6.exchangerate-api.com/v6/" + Api_key + "/latest/";
     private final HttpClient httpClient;
 
     public ConsultaMoneda() {
