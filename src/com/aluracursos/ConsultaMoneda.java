@@ -31,7 +31,6 @@ public  class ConsultaMoneda {
 
         JsonObject json = JsonParser.parseString(response.body()).getAsJsonObject();
 
-        // Aquí accedemos solo a la parte útil
         return json.getAsJsonObject("conversion_rates");
     }
 }
