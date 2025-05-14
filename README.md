@@ -30,7 +30,7 @@ Uso
 3º Selecciona la monedadestino.
 El programa realiza la consulta y muestra el valor convertido.
 
-[imagen Alt](https://github.com/ximenakaa/ConversoMoneda-Challenger/blob/7179de0a39ddcc3d4ee39e01454e036b34e868d7/Captura%20de%20pantalla%202025-05-13%20194859.png)
+[Captura imagen](https://github.com/ximenakaa/ConversoMoneda-Challenger/blob/7179de0a39ddcc3d4ee39e01454e036b34e868d7/Captura%20de%20pantalla%202025-05-13%20194859.png)
 
 Recuerda : Cambiar a tu clave Key para ejecutar el programa .
 obtiene una clave desde ExchangeRate-API
