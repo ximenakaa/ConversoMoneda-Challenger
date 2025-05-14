@@ -33,7 +33,7 @@ El programa realiza la consulta y muestra el valor convertido.
 Recuerda : Cambiar a tu clave Key para ejecutar el programa .
 obtiene una clave desde ExchangeRate-API
 
-[![Captura de pantalla 2025-05-13 194859.png](imagen/Captura%20de%20pantalla%202025-05-13%20194859.png]() "imagen de consola")
+
 
 
 Espero le sirva para conocer y ejercitar los conocimientos en Java.
